@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "defs.h": "c",
+        "memlayout.h": "c",
+        "param.h": "c",
+        "date.h": "c",
+        "x86.h": "c",
+        "proc.h": "c",
+        "mmu.h": "c"
+    }
+}
